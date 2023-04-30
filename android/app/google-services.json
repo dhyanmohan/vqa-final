@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132056952533",
+    "project_id": "thevqaapp",
+    "storage_bucket": "thevqaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132056952533:android:8da3b1c86a0755db583c5c",
+        "android_client_info": {
+          "package_name": "com.example.vqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132056952533-ri1kqsp0u1p68rqi9rb8phohialhoul1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vqa",
+            "certificate_hash": "71f9c5179af40efc046f7736093084eb4ba7e2cb"
+          }
+        },
+        {
+          "client_id": "132056952533-chsjtbqug9nnd4ulsqo9a5c7jhtr840j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUv_nnTr_R_N3tnTrQjmIXdwZcTK3ie20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132056952533-chsjtbqug9nnd4ulsqo9a5c7jhtr840j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
